@@ -14,12 +14,28 @@ label start:
     show vladimir at left
     with dissolve
 
-    "hi"
-    "hi"
-    "hi"
-    "hi"
-    "hi"
-    "hi"
-    "hi"
+    vladimir "после долго путешествия я устал и решил выпить со своим другом. я просто устал "
+
+    show kevin at right
+    with dissolve
+
+    kevin ""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 return
